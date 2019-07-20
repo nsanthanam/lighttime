@@ -1,3 +1,10 @@
+# Data
+raw/
+processed/
+
+# Luis's code
+code/plot_Nightlights_OECD.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
